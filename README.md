@@ -1,6 +1,6 @@
 ### 💡 Sobre o projeto:
 
-Este é um site responsivo criado para uma empresa fictícia chamada Frontbox, foi desenvolvido com o auxílio do canal [Inkasa Dev](https://www.youtube.com/@InkasaDev).
+Este é um site responsivo criado para uma empresa fictícia chamada Frontbox, foi desenvolvido com o auxílio do [Phillipe Martins](https://github.com/inkasadev) do canal [Inkasa Dev](https://www.youtube.com/@InkasaDev).
 .
 
 Confira os links do projeto:
