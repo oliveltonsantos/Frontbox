@@ -5,8 +5,8 @@ Este é um site responsivo criado para uma empresa fictícia chamada Frontbox, f
 
 Confira os links do projeto:
 
-[Playlist dos vídeos](https://youtube.com/playlist?list=PL28O_hEAqjAsDpyOY09Ju_KJcHegksekf&si=mMDnUPGFGpa9NTjL)
-[Repositótio no GitHub](https://github.com/inkasadev/frontbox-starter-files)
+- [Playlist dos vídeos](https://youtube.com/playlist?list=PL28O_hEAqjAsDpyOY09Ju_KJcHegksekf&si=mMDnUPGFGpa9NTjL)
+- [Repositótio no GitHub](https://github.com/inkasadev/frontbox-starter-files)
 
 ##
 
