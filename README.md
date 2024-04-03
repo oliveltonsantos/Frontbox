@@ -29,6 +29,8 @@ Confira os links do projeto:
 
 Acesse o site pronto neste link [aqui](https://oliveltonsantos.github.io/frontbox)!
 
+https://github.com/oliveltonsantos/frontbox/assets/124373744/8bccfff0-636d-4387-81b2-3ce727606788
+
 ##
 
 ### 💬 Sugestões:
